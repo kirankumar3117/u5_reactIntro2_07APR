@@ -1,0 +1,25 @@
+.App{
+  width:98%;
+  height:50px;
+  background-color:black;
+  margin-left: 1%;
+  margin-top: 3px;
+  display: flex;
+  color:white;
+  justify-content: space-around;
+}
+.link{
+  display: flex;
+  width:280px;
+  justify-content: space-between;
+}
+.logo{
+  font-weight: bold;
+}
+.buttun>p>button{
+  border-radius: 10px;
+  width:70px;
+  height:23px;
+  border: 0;
+  background-color:rgb(17, 70, 216);
+}
